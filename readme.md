@@ -19,3 +19,7 @@ input and restores private information via activation steering during inference.
 
 - The code of PrivacyRestore is in `./PrivacyRestore` subdir. Detailed usage is provide in `./PrivacyRestore/README.md`.
 - The three privacy-preserving datasets we created is in `./Datasets` subdir. Detailed usage is provide in `./Datasets/README.md`.
+
+## Release of Our Pretrained Vectors
+
+> https://pan.baidu.com/s/1MsAmnA6fo0-iKY4BXNLAyA?pwd=k4yb
